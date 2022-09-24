@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan Önder</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate mobile developer from Turkey</h3>
 
 <img align="right" alt="Coding" width="400" src="https://prometbilisim.com/wp-content/uploads/2022/02/promet-gif.gif">
 
