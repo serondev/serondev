@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://prometbilisim.com/wp-content/uploads/2022/02/promet-gif.gif">
 
 
-- 🔭 I’m currently working on [Pazarama Android & Kotlin Bootcamp](https://github.com/Pazarama-Android-Kotlin-Bootcamp)
+- 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **Kotlin**
 
