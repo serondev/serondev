@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://prometbilisim.com/wp-content/uploads/2022/02/promet-gif.gif">
 
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Mobile Development**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **serondev@hotmail.com**
 
